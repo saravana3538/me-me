@@ -1,0 +1,112 @@
+.App-logo {
+  width: 300px ;
+}
+.home-left{
+  text-align: center;
+}
+.home-right{
+  background-image: linear-gradient(to right, #FA3E44 , #FF647D);
+  text-align: center;
+  background-attachment: fixed;
+  }
+.menu-fixed{
+  position: fixed;
+  width: 47%;
+  top: auto;
+  top: 17%;
+}
+.nav-link{
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+  text-transform: capitalize;
+}
+img.app-store {
+  width: 133px;
+  padding: 18px 0;
+}
+
+.socielicon{
+  display: flex;
+  flex-direction: row;
+  width: 112px;
+  margin: 0 auto;
+  padding: 18px 0;
+}
+.sociel-icon-space{
+  padding: 0 10px;
+}
+.copyright{
+  padding: 10px 0;
+}
+a{
+  color: #333333;
+}
+p {
+  font-weight: 500;
+}
+.timeline{
+  background-color: #ffffff;
+  width: 350px;
+  text-align: center;
+  align-items: center;
+  margin: 88px auto;
+  padding: 20px;
+  border-radius: 7px;
+}
+.rowprofiletext{
+  display: flex;
+  flex-direction: row;
+  
+}
+.profile-img{
+  width: 59px;
+  border-radius: 100px;
+}
+.rowprofilename{
+  padding: 0px 18px;
+  text-align: left;
+}
+.rowprofilename p{
+  color: #909090;
+}
+/* .video{
+  background-color: #333333;
+  height: 230px;
+  border-radius: 7px;
+} */
+.posttextbtn{
+  display: flex;
+  flex-direction: row;
+}
+.postbtn  {
+  background-image: linear-gradient(to right, #FA3E44 , #FF647D);
+  color: #fff;
+  border-radius: 100px;
+  width: 50px;
+  height: 50px;
+  margin-top: 12px;
+}
+svg.svg-inline--fa.fa-microphone {
+  margin: 9px auto;
+}
+.posttext {
+  width: 258px;
+  text-align: left;
+}
+.posttextbtn {
+  padding: 23px 0 0;
+}
+.rowprofiletext {
+  padding-bottom: 15px;
+}
+.posttext p {
+  line-height: 2.2;
+}
+.video#video-1 {
+  width: 311px !important;
+}
+.video-react-controls-enabled.video-react-has-started.video-react-paused.video-react-fluid.video-react-user-inactive.video-react-workinghover.video-react {
+  padding: 0 !important;
+}

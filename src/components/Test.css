@@ -1,0 +1,7 @@
+video#video-1 {
+    width: 308px;
+    border-radius: 10px;
+}
+.video-react {
+    padding-top: 0 !important;
+}
